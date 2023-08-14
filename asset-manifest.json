@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-create-BookList-V3-/static/css/main.1f59ae86.css",
+    "main.js": "/React-create-BookList-V3-/static/js/main.af765637.js",
+    "index.html": "/React-create-BookList-V3-/index.html",
+    "main.1f59ae86.css.map": "/React-create-BookList-V3-/static/css/main.1f59ae86.css.map",
+    "main.af765637.js.map": "/React-create-BookList-V3-/static/js/main.af765637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.af765637.js"
+  ]
+}
